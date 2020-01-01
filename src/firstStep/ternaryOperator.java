@@ -13,5 +13,11 @@ public class ternaryOperator {
         if (wasCar) {
             System.out.println("wasCar is true");
         }
+
+        int ageOfClient = 20;
+        boolean isEighteenOrOver = (ageOfClient == 20) ? true : false;
+        if (isEighteenOrOver) {
+            System.out.println("true");
+        }
     }
 }

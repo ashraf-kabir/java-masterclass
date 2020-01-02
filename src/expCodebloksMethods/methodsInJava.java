@@ -46,9 +46,9 @@ public class methodsInJava {
     public static int calculatedHighScorePosition(int platerScore) {
         if (platerScore >= 1000) {
             return 1;
-        } else if (platerScore >= 500 && platerScore < 1000) {
+        } else if (platerScore >= 500) {
             return 2;
-        } else if (platerScore >= 100 && platerScore < 500) {
+        } else if (platerScore >= 100) {
             return 3;
         } else {
             return 4;

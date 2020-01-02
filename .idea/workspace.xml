@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1929e402-c9cf-43f0-950e-c93637870fce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/expCodebloksMethods/methodOverloading/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expCodebloksMethods/secondsMinutes/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expCodebloksMethods/secondsMinutes/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,13 +43,26 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="expCodebloksMethods.methodOverloading.Main" />
       <module name="java-masterclass" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="expCodebloksMethods.methodOverloading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="expCodebloksMethods.secondsMinutes.Main" />
+      <module name="java-masterclass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="expCodebloksMethods.secondsMinutes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,26 +109,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ternaryOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firstStep.ternaryOperator" />
-      <module name="java-masterclass" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="firstStep.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.positiveNegativeZero" />
         <item itemvalue="Application.methodsInJava" />
-        <item itemvalue="Application.ternaryOperator" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +142,7 @@
       <option name="presentableId" value="Default" />
       <updated>1577856890543</updated>
       <workItem from="1577856892459" duration="4931000" />
-      <workItem from="1577949546725" duration="9619000" />
+      <workItem from="1577949546725" duration="10860000" />
     </task>
     <servers />
   </component>
@@ -149,22 +150,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="881" height="253" key="GridCell.Tab.0.bottom" timestamp="1577961293707">
+    <state width="881" height="190" key="GridCell.Tab.0.bottom" timestamp="1577962889383">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="253" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1577961293707" />
-    <state width="881" height="253" key="GridCell.Tab.0.center" timestamp="1577961293707">
+    <state width="881" height="190" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1577962889383" />
+    <state width="881" height="190" key="GridCell.Tab.0.center" timestamp="1577962889382">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="253" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1577961293707" />
-    <state width="881" height="253" key="GridCell.Tab.0.left" timestamp="1577961293706">
+    <state width="881" height="190" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1577962889382" />
+    <state width="881" height="190" key="GridCell.Tab.0.left" timestamp="1577962889381">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="253" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1577961293706" />
-    <state width="881" height="253" key="GridCell.Tab.0.right" timestamp="1577961293707">
+    <state width="881" height="190" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1577962889381" />
+    <state width="881" height="190" key="GridCell.Tab.0.right" timestamp="1577962889383">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="253" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1577961293707" />
+    <state width="881" height="190" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1577962889383" />
     <state x="898" y="187" key="SettingsEditor" timestamp="1577861938335">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>

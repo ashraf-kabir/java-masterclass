@@ -13,6 +13,46 @@ public class methodsInJava {
 
         int highScore = calculate(true, 20000, 8, 200);
         System.out.println("Your final score was " + highScore);
+
+
+
+        int highScorePosition = calculatedHighScorePosition(1500);
+        displayHighScorePosition("Tim", highScorePosition);
+
+        highScorePosition = calculatedHighScorePosition(900);
+        displayHighScorePosition("Max", highScorePosition);
+
+        highScorePosition = calculatedHighScorePosition(400);
+        displayHighScorePosition("James", highScorePosition);
+
+        highScorePosition = calculatedHighScorePosition(50);
+        displayHighScorePosition("Robert", highScorePosition);
+
+        highScorePosition = calculatedHighScorePosition(1000);
+        displayHighScorePosition("Jose", highScorePosition);
+
+        highScorePosition = calculatedHighScorePosition(500);
+        displayHighScorePosition("Carol", highScorePosition);
+
+        highScorePosition = calculatedHighScorePosition(100);
+        displayHighScorePosition("Frank", highScorePosition);
+    }
+
+    public static void displayHighScorePosition(String playerName, int highScorePosition) {
+        System.out.println(playerName + " managed to get into position "
+                + highScorePosition + " on the high score table");
+    }
+
+    public static int calculatedHighScorePosition(int platerScore) {
+        if (platerScore >= 1000) {
+            return 1;
+        } else if (platerScore >= 500 && platerScore < 1000) {
+            return 2;
+        } else if (platerScore >= 100 && platerScore < 500) {
+            return 3;
+        } else {
+            return 4;
+        }
     }
 
     public static void calc(boolean gameOver, int score, int levelCompleted, int bonus) {

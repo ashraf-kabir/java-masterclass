@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1929e402-c9cf-43f0-950e-c93637870fce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/controlflow/dayoftheweek/dayofweek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controlflow/testInput.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.dayofweek">
+  <component name="RunManager" selected="Application.testInput">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="expCodebloksMethods.methodOverloading.Main" />
       <module name="java-masterclass" />
@@ -69,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="expCodebloksMethods.codingExercise.speedConverter.Main" />
+    <configuration name="dayofweek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controlflow.dayoftheweek.dayofweek" />
       <module name="java-masterclass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="expCodebloksMethods.codingExercise.speedConverter.*" />
+          <option name="PATTERN" value="controlflow.dayoftheweek.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dayofweek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controlflow.dayoftheweek.dayofweek" />
+    <configuration name="testInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controlflow.testInput" />
       <module name="java-masterclass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="controlflow.dayoftheweek.*" />
+          <option name="PATTERN" value="controlflow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.testInput" />
         <item itemvalue="Application.dayofweek" />
         <item itemvalue="Application.testSwitch" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +142,7 @@
       <updated>1577856890543</updated>
       <workItem from="1577856892459" duration="4931000" />
       <workItem from="1577949546725" duration="11749000" />
-      <workItem from="1577971521593" duration="1654000" />
+      <workItem from="1577971521593" duration="2611000" />
     </task>
     <servers />
   </component>
@@ -150,22 +150,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="881" height="277" key="GridCell.Tab.0.bottom" timestamp="1577973813809">
+    <state width="881" height="231" key="GridCell.Tab.0.bottom" timestamp="1577974984082">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="277" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1577973813809" />
-    <state width="881" height="277" key="GridCell.Tab.0.center" timestamp="1577973813808">
+    <state width="881" height="231" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1577974984082" />
+    <state width="881" height="231" key="GridCell.Tab.0.center" timestamp="1577974984080">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="277" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1577973813808" />
-    <state width="881" height="277" key="GridCell.Tab.0.left" timestamp="1577973813808">
+    <state width="881" height="231" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1577974984080" />
+    <state width="881" height="231" key="GridCell.Tab.0.left" timestamp="1577974984080">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="277" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1577973813808" />
-    <state width="881" height="277" key="GridCell.Tab.0.right" timestamp="1577973813809">
+    <state width="881" height="231" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1577974984080" />
+    <state width="881" height="231" key="GridCell.Tab.0.right" timestamp="1577974984081">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="277" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1577973813809" />
+    <state width="881" height="231" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1577974984081" />
     <state x="898" y="187" key="SettingsEditor" timestamp="1577861938335">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>

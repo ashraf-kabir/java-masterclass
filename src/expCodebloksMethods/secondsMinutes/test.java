@@ -1,10 +1,10 @@
 package expCodebloksMethods.secondsMinutes;
 
-public class test {
+public class test extends msg {
 
     public static String getDurationString(long minutes, long seconds) {
         if ((minutes < 0) || (seconds < 0) || (seconds > 59)) {
-            return "invalid value";
+            return INVALID_VALUE_MESSAGE;
         }
 
         long hours = minutes / 60;
@@ -31,7 +31,7 @@ public class test {
 
     public static String getDurationString(long seconds) {
         if (seconds < 0) {
-            return "invalid value";
+            return INVALID_VALUE_MESSAGE;
         }
 
         long minutes = seconds / 60;

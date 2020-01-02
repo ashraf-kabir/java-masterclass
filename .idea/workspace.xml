@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1929e402-c9cf-43f0-950e-c93637870fce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/expCodebloksMethods/secondsMinutes/msg.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/expCodebloksMethods/secondsMinutes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-masterclass/expCodebloksMethods/secondsMinutes/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/expCodebloksMethods/secondsMinutes/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-masterclass/expCodebloksMethods/secondsMinutes/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/expCodebloksMethods/secondsMinutes/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/expCodebloksMethods/secondsMinutes/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/expCodebloksMethods/secondsMinutes/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/expCodebloksMethods/secondsMinutes/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -142,7 +145,7 @@
       <option name="presentableId" value="Default" />
       <updated>1577856890543</updated>
       <workItem from="1577856892459" duration="4931000" />
-      <workItem from="1577949546725" duration="11434000" />
+      <workItem from="1577949546725" duration="11681000" />
     </task>
     <servers />
   </component>
@@ -150,22 +153,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="881" height="190" key="GridCell.Tab.0.bottom" timestamp="1577963268838">
+    <state width="881" height="190" key="GridCell.Tab.0.bottom" timestamp="1577963602017">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="190" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1577963268838" />
-    <state width="881" height="190" key="GridCell.Tab.0.center" timestamp="1577963268836">
+    <state width="881" height="190" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1577963602017" />
+    <state width="881" height="190" key="GridCell.Tab.0.center" timestamp="1577963602016">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="190" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1577963268836" />
-    <state width="881" height="190" key="GridCell.Tab.0.left" timestamp="1577963268835">
+    <state width="881" height="190" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1577963602016" />
+    <state width="881" height="190" key="GridCell.Tab.0.left" timestamp="1577963602016">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="190" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1577963268835" />
-    <state width="881" height="190" key="GridCell.Tab.0.right" timestamp="1577963268836">
+    <state width="881" height="190" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1577963602016" />
+    <state width="881" height="190" key="GridCell.Tab.0.right" timestamp="1577963602017">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="190" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1577963268836" />
+    <state width="881" height="190" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1577963602017" />
     <state x="898" y="187" key="SettingsEditor" timestamp="1577861938335">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>

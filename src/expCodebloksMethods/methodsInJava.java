@@ -44,15 +44,26 @@ public class methodsInJava {
     }
 
     public static int calculatedHighScorePosition(int platerScore) {
+//        if (platerScore >= 1000) {
+//            return 1;
+//        } else if (platerScore >= 500) {
+//            return 2;
+//        } else if (platerScore >= 100) {
+//            return 3;
+//        } else {
+//            return 4;
+//        }
+
+        int position = 4;
+
         if (platerScore >= 1000) {
-            return 1;
+            position = 1;
         } else if (platerScore >= 500) {
-            return 2;
+            position = 2;
         } else if (platerScore >= 100) {
-            return 3;
-        } else {
-            return 4;
+            position = 3;
         }
+        return position;
     }
 
     public static void calc(boolean gameOver, int score, int levelCompleted, int bonus) {

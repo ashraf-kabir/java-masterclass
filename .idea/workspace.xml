@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1929e402-c9cf-43f0-950e-c93637870fce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/expCodebloksMethods/codingExercise/positiveNegativeZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expCodebloksMethods/codingExercise/speedConverter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expCodebloksMethods/codingExercise/speedConverter/SpeedConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +43,20 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.positiveNegativeZero">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="expCodebloksMethods.codingExercise.speedConverter.Main" />
+      <module name="java-masterclass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="expCodebloksMethods.codingExercise.speedConverter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="methodsInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="expCodebloksMethods.methodsInJava" />
       <module name="java-masterclass" />
@@ -60,7 +75,7 @@
       <module name="java-masterclass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="expCodebloksMethods.codingExercise.*" />
+          <option name="PATTERN" value="expCodebloksMethods.codingExercise.speedConverter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,6 +98,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.positiveNegativeZero" />
         <item itemvalue="Application.methodsInJava" />
         <item itemvalue="Application.ternaryOperator" />
@@ -112,7 +128,7 @@
       <option name="presentableId" value="Default" />
       <updated>1577856890543</updated>
       <workItem from="1577856892459" duration="4931000" />
-      <workItem from="1577949546725" duration="3141000" />
+      <workItem from="1577949546725" duration="6990000" />
     </task>
     <servers />
   </component>
@@ -120,22 +136,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="881" height="253" key="GridCell.Tab.0.bottom" timestamp="1577953657308">
+    <state width="881" height="253" key="GridCell.Tab.0.bottom" timestamp="1577957600355">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="253" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1577953657308" />
-    <state width="881" height="253" key="GridCell.Tab.0.center" timestamp="1577953657304">
+    <state width="881" height="253" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1577957600355" />
+    <state width="881" height="253" key="GridCell.Tab.0.center" timestamp="1577957600355">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="253" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1577953657304" />
-    <state width="881" height="253" key="GridCell.Tab.0.left" timestamp="1577953657303">
+    <state width="881" height="253" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1577957600355" />
+    <state width="881" height="253" key="GridCell.Tab.0.left" timestamp="1577957600355">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="253" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1577953657303" />
-    <state width="881" height="253" key="GridCell.Tab.0.right" timestamp="1577953657305">
+    <state width="881" height="253" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1577957600355" />
+    <state width="881" height="253" key="GridCell.Tab.0.right" timestamp="1577957600355">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="253" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1577953657305" />
+    <state width="881" height="253" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1577957600355" />
     <state x="898" y="187" key="SettingsEditor" timestamp="1577861938335">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>

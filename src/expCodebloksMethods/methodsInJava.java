@@ -43,12 +43,12 @@ public class methodsInJava {
                 + highScorePosition + " on the high score table");
     }
 
-    public static int calculatedHighScorePosition(int platerScore) {
-//        if (platerScore >= 1000) {
+    public static int calculatedHighScorePosition(int playerScore) {
+//        if (playerScore >= 1000) {
 //            return 1;
-//        } else if (platerScore >= 500) {
+//        } else if (playerScore >= 500) {
 //            return 2;
-//        } else if (platerScore >= 100) {
+//        } else if (playerScore >= 100) {
 //            return 3;
 //        } else {
 //            return 4;
@@ -56,11 +56,11 @@ public class methodsInJava {
 
         int position = 4;
 
-        if (platerScore >= 1000) {
+        if (playerScore >= 1000) {
             position = 1;
-        } else if (platerScore >= 500) {
+        } else if (playerScore >= 500) {
             position = 2;
-        } else if (platerScore >= 100) {
+        } else if (playerScore >= 100) {
             position = 3;
         }
         return position;

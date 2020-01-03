@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1929e402-c9cf-43f0-950e-c93637870fce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oop/challenge/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/challenge/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/challenge/VIPCustomer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/challenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/challenge/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +144,7 @@
       <workItem from="1577856892459" duration="4931000" />
       <workItem from="1577949546725" duration="11749000" />
       <workItem from="1577971521593" duration="3290000" />
-      <workItem from="1578048172670" duration="3402000" />
+      <workItem from="1578048172670" duration="5574000" />
     </task>
     <servers />
   </component>
@@ -152,26 +152,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1264" y="239" width="374" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1578054164498">
+    <state x="1264" y="239" width="374" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1578059048724">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="1264" y="239" width="374" height="626" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1578054164498" />
-    <state width="881" height="334" key="GridCell.Tab.0.bottom" timestamp="1578054385551">
+    <state x="1264" y="239" width="374" height="626" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1578059048724" />
+    <state width="881" height="334" key="GridCell.Tab.0.bottom" timestamp="1578059252641">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="334" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1578054385551" />
-    <state width="881" height="334" key="GridCell.Tab.0.center" timestamp="1578054385548">
+    <state width="881" height="334" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1578059252641" />
+    <state width="881" height="334" key="GridCell.Tab.0.center" timestamp="1578059252640">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="334" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1578054385548" />
-    <state width="881" height="334" key="GridCell.Tab.0.left" timestamp="1578054385548">
+    <state width="881" height="334" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1578059252640" />
+    <state width="881" height="334" key="GridCell.Tab.0.left" timestamp="1578059252639">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="334" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1578054385548" />
-    <state width="881" height="334" key="GridCell.Tab.0.right" timestamp="1578054385550">
+    <state width="881" height="334" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1578059252639" />
+    <state width="881" height="334" key="GridCell.Tab.0.right" timestamp="1578059252640">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="334" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1578054385550" />
+    <state width="881" height="334" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1578059252640" />
     <state x="898" y="187" key="SettingsEditor" timestamp="1577861938335">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>

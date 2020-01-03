@@ -20,5 +20,16 @@ public class Main {
         Account jamesAccount = new Account("James", "tim@gmail.com", "56565");
         System.out.println(jamesAccount.getNumber() + " name " + jamesAccount.getCustomerName());
 
+        VIPCustomer customer1 = new VIPCustomer();
+        System.out.println(customer1.getName());
+
+        VIPCustomer person2 = new VIPCustomer("Tim", 25000.34);
+        System.out.println(person2.getName());
+
+        VIPCustomer person3 = new VIPCustomer("Blake", 354345.22, "blake@gmail.com");
+        System.out.println(person3.getName());
+        System.out.println(person3.getCreditLimit());
+        System.out.println(person3.getEmailAddress());
+
     }
 }

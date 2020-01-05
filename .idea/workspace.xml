@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1929e402-c9cf-43f0-950e-c93637870fce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oop/challenge/VIPCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/inheritance/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/inheritance/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/inheritance/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/inheritance/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/challenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/challenge/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +45,13 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="expCodebloksMethods.secondsMinutes.Main" />
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.inheritance.Main" />
       <module name="java-masterclass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="expCodebloksMethods.secondsMinutes.*" />
+          <option name="PATTERN" value="oop.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.testInput" />
         <item itemvalue="Application.dayofweek" />
         <item itemvalue="Application.testSwitch" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +146,11 @@
       <workItem from="1577856892459" duration="4931000" />
       <workItem from="1577949546725" duration="11749000" />
       <workItem from="1577971521593" duration="3290000" />
-      <workItem from="1578048172670" duration="5574000" />
+      <workItem from="1578048172670" duration="5607000" />
+      <workItem from="1578134316209" duration="246000" />
+      <workItem from="1578215732440" duration="599000" />
+      <workItem from="1578244527022" duration="544000" />
+      <workItem from="1578224145012" duration="4165000" />
     </task>
     <servers />
   </component>
@@ -152,26 +158,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1264" y="239" width="374" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1578059048724">
+    <state x="1264" y="239" width="374" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1578232390620">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="1264" y="239" width="374" height="626" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1578059048724" />
-    <state width="881" height="334" key="GridCell.Tab.0.bottom" timestamp="1578059252641">
+    <state x="1264" y="239" width="374" height="626" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1578232390620" />
+    <state width="881" height="227" key="GridCell.Tab.0.bottom" timestamp="1578232195943">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="334" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1578059252641" />
-    <state width="881" height="334" key="GridCell.Tab.0.center" timestamp="1578059252640">
+    <state width="881" height="227" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1578232195943" />
+    <state width="881" height="227" key="GridCell.Tab.0.center" timestamp="1578232195942">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="334" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1578059252640" />
-    <state width="881" height="334" key="GridCell.Tab.0.left" timestamp="1578059252639">
+    <state width="881" height="227" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1578232195942" />
+    <state width="881" height="227" key="GridCell.Tab.0.left" timestamp="1578232195941">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="334" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1578059252639" />
-    <state width="881" height="334" key="GridCell.Tab.0.right" timestamp="1578059252640">
+    <state width="881" height="227" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1578232195941" />
+    <state width="881" height="227" key="GridCell.Tab.0.right" timestamp="1578232195942">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="334" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1578059252640" />
+    <state width="881" height="227" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1578232195942" />
     <state x="898" y="187" key="SettingsEditor" timestamp="1577861938335">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>

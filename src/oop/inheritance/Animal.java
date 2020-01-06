@@ -1,13 +1,13 @@
 package oop.inheritance;
 
 public class Animal {
-    private String name;
+    private String name;                  // instance var
     private int brain;
     private int body;
     private int size;
     private int weight;
 
-    public Animal(String name, int brain, int body, int size, int weight) {
+    public Animal(String name, int brain, int body, int size, int weight) {   // constructor
         this.name = name;
         this.brain = brain;
         this.body = body;
@@ -15,7 +15,7 @@ public class Animal {
         this.weight = weight;
     }
 
-    public void eat() {
+    public void eat() {                                      // instance method
         System.out.println("Animal.eat() called");
     }
 

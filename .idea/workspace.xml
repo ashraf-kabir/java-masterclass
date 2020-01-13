@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1929e402-c9cf-43f0-950e-c93637870fce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oop/inheritance/challenge/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/inheritance/challenge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/inheritance/challenge/Outlander.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/inheritance/challenge/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/composition/Case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/composition/Dimensions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/composition/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/composition/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/composition/Motherboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/composition/PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/composition/Resolution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/Animal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +48,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oop.inheritance.Main" />
       <module name="java-masterclass" />
@@ -73,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.challenge.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.composition.Main" />
       <module name="java-masterclass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.challenge.*" />
+          <option name="PATTERN" value="oop.composition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dayofweek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controlflow.dayoftheweek.dayofweek" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.challenge.Main" />
       <module name="java-masterclass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="controlflow.dayoftheweek.*" />
+          <option name="PATTERN" value="oop.challenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.testInput" />
-        <item itemvalue="Application.dayofweek" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +157,10 @@
       <workItem from="1578241000067" duration="601000" />
       <workItem from="1578245182389" duration="1604000" />
       <workItem from="1578302888312" duration="598000" />
-      <workItem from="1578316619423" duration="2806000" />
+      <workItem from="1578316619423" duration="4250000" />
+      <workItem from="1578561948993" duration="262000" />
+      <workItem from="1578648485803" duration="599000" />
+      <workItem from="1578922042001" duration="7357000" />
     </task>
     <servers />
   </component>
@@ -163,26 +168,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1264" y="239" width="374" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1578319601859">
+    <state x="1264" y="239" width="374" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1578927738372">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="1264" y="239" width="374" height="626" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1578319601859" />
-    <state width="881" height="271" key="GridCell.Tab.0.bottom" timestamp="1578321197104">
+    <state x="1264" y="239" width="374" height="626" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1578927738372" />
+    <state width="969" height="271" key="GridCell.Tab.0.bottom" timestamp="1578930521506">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="271" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1578321197104" />
-    <state width="881" height="271" key="GridCell.Tab.0.center" timestamp="1578321197103">
+    <state width="969" height="271" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1578930521506" />
+    <state width="969" height="271" key="GridCell.Tab.0.center" timestamp="1578930521504">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="271" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1578321197103" />
-    <state width="881" height="271" key="GridCell.Tab.0.left" timestamp="1578321197103">
+    <state width="969" height="271" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1578930521504" />
+    <state width="969" height="271" key="GridCell.Tab.0.left" timestamp="1578930521502">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="271" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1578321197103" />
-    <state width="881" height="271" key="GridCell.Tab.0.right" timestamp="1578321197104">
+    <state width="969" height="271" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1578930521502" />
+    <state width="969" height="271" key="GridCell.Tab.0.right" timestamp="1578930521505">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="271" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1578321197104" />
+    <state width="969" height="271" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1578930521505" />
     <state x="898" y="187" key="SettingsEditor" timestamp="1577861938335">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>

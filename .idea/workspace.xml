@@ -40,6 +40,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -192,5 +193,9 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="898" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1577861938335" />
+    <state x="661" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1579496978515">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579496978515" />
   </component>
 </project>

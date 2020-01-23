@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1929e402-c9cf-43f0-950e-c93637870fce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/Case.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/Dimensions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/Motherboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/PC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/composition/Resolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/composition/challange/Bed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/composition/challange/Bedroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/composition/challange/Ceiling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/composition/challange/Lamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/composition/challange/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/composition/challange/Wall.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +46,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -77,11 +76,11 @@
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.composition.Main" />
+      <option name="MAIN_CLASS_NAME" value="oop.composition.challange.Main" />
       <module name="java-masterclass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.composition.*" />
+          <option name="PATTERN" value="oop.composition.challange.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,6 +94,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="oop.challenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.composition.Main" />
+      <module name="java-masterclass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.composition.challange.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,10 +130,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.testInput" />
       </list>
     </recent_temporary>
   </component>
@@ -162,6 +174,10 @@
       <workItem from="1578561948993" duration="262000" />
       <workItem from="1578648485803" duration="599000" />
       <workItem from="1578922042001" duration="7357000" />
+      <workItem from="1579496976872" duration="1173000" />
+      <workItem from="1579762402024" duration="93000" />
+      <workItem from="1579762710838" duration="1001000" />
+      <workItem from="1579769509392" duration="2424000" />
     </task>
     <servers />
   </component>
@@ -169,9 +185,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1264" y="239" width="374" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1578927738372">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="1240" y="209" width="374" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1579772944494">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="1240" y="209" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1579772944494" />
     <state x="1264" y="239" width="374" height="626" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1578927738372" />
     <state width="969" height="271" key="GridCell.Tab.0.bottom" timestamp="1578930521506">
       <screen x="67" y="27" width="1853" height="1053" />
@@ -189,9 +206,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="969" height="271" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1578930521505" />
-    <state x="898" y="187" key="SettingsEditor" timestamp="1577861938335">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="540" y="165" key="SettingsEditor" timestamp="1579772058405">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="540" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579772058405" />
     <state x="898" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1577861938335" />
     <state x="661" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1579496978515">
       <screen x="0" y="0" width="1920" height="1040" />

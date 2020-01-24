@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1929e402-c9cf-43f0-950e-c93637870fce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oop/polymorphism/challenge/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/polymorphism/challenge/Ford.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/polymorphism/challenge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/polymorphism/challenge/Mitsubishi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/masterchallenge/DeluxeBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/masterchallenge/Hamburger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/masterchallenge/HealthyBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/masterchallenge/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/polymorphism/challenge/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-masterclass/oop/polymorphism/challenge/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/polymorphism/challenge/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-masterclass/oop/polymorphism/challenge/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/polymorphism/challenge/Mitsubishi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-masterclass/oop/polymorphism/challenge/Mitsubishi.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +49,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (5)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oop.polymorphism.Main" />
       <module name="java-masterclass" />
@@ -73,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.composition.challange.Main" />
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.encapsulation.Main" />
       <module name="java-masterclass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.composition.challange.*" />
+          <option name="PATTERN" value="oop.encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.encapsulation.Main" />
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.masterchallenge.Main" />
       <module name="java-masterclass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.encapsulation.*" />
+          <option name="PATTERN" value="oop.masterchallenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +180,9 @@
       <workItem from="1579762710838" duration="1001000" />
       <workItem from="1579769509392" duration="2692000" />
       <workItem from="1579785105497" duration="8484000" />
-      <workItem from="1579843342796" duration="1014000" />
+      <workItem from="1579843342796" duration="2850000" />
+      <workItem from="1579849005358" duration="766000" />
+      <workItem from="1579853428383" duration="3362000" />
     </task>
     <servers />
   </component>
@@ -185,30 +190,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1240" y="209" width="374" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1579843752579">
+    <state x="1240" y="209" width="374" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1579857647107">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1240" y="209" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1579843752579" />
+    <state x="1240" y="209" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1579857647107" />
     <state x="1264" y="239" width="374" height="626" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1578927738372" />
-    <state width="914" height="374" key="GridCell.Tab.0.bottom" timestamp="1579844106548">
+    <state width="1029" height="277" key="GridCell.Tab.0.bottom" timestamp="1579857807348">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="374" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579844106548" />
+    <state width="1029" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579857807348" />
     <state width="969" height="271" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1578930521506" />
-    <state width="914" height="374" key="GridCell.Tab.0.center" timestamp="1579844106547">
+    <state width="1029" height="277" key="GridCell.Tab.0.center" timestamp="1579857807348">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="374" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579844106547" />
+    <state width="1029" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579857807348" />
     <state width="969" height="271" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1578930521504" />
-    <state width="914" height="374" key="GridCell.Tab.0.left" timestamp="1579844106547">
+    <state width="1029" height="277" key="GridCell.Tab.0.left" timestamp="1579857807348">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="374" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579844106547" />
+    <state width="1029" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579857807348" />
     <state width="969" height="271" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1578930521502" />
-    <state width="914" height="374" key="GridCell.Tab.0.right" timestamp="1579844106548">
+    <state width="1029" height="277" key="GridCell.Tab.0.right" timestamp="1579857807348">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="374" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579844106548" />
+    <state width="1029" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579857807348" />
     <state width="969" height="271" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1578930521505" />
     <state x="540" y="165" key="SettingsEditor" timestamp="1579772058405">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -219,5 +224,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="661" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579496978515" />
+    <state x="1096" y="244" width="672" height="677" key="run.anything.popup" timestamp="1579857503318">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1096" y="244" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1579857503318" />
   </component>
 </project>

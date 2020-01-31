@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1929e402-c9cf-43f0-950e-c93637870fce" name="Default Changelist" comment="" />
+    <list default="true" id="1929e402-c9cf-43f0-950e-c93637870fce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +42,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.Main (5)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oop.polymorphism.Main" />
       <module name="java-masterclass" />
@@ -67,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.encapsulation.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="expCodebloksMethods.secondsMinutes.Main" />
       <module name="java-masterclass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.encapsulation.*" />
+          <option name="PATTERN" value="expCodebloksMethods.secondsMinutes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -175,6 +177,7 @@
       <workItem from="1579849005358" duration="766000" />
       <workItem from="1579853428383" duration="3362000" />
       <workItem from="1579968590600" duration="49000" />
+      <workItem from="1580443682704" duration="2519000" />
     </task>
     <servers />
   </component>
@@ -187,25 +190,25 @@
     </state>
     <state x="1240" y="209" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1579857647107" />
     <state x="1264" y="239" width="374" height="626" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1578927738372" />
-    <state width="1029" height="277" key="GridCell.Tab.0.bottom" timestamp="1579857807348">
+    <state width="1877" height="120" key="GridCell.Tab.0.bottom" timestamp="1580446333651">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1029" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579857807348" />
+    <state width="1877" height="120" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580446333651" />
     <state width="969" height="271" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1578930521506" />
-    <state width="1029" height="277" key="GridCell.Tab.0.center" timestamp="1579857807348">
+    <state width="1877" height="120" key="GridCell.Tab.0.center" timestamp="1580446333651">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1029" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579857807348" />
+    <state width="1877" height="120" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580446333651" />
     <state width="969" height="271" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1578930521504" />
-    <state width="1029" height="277" key="GridCell.Tab.0.left" timestamp="1579857807348">
+    <state width="1877" height="120" key="GridCell.Tab.0.left" timestamp="1580446333650">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1029" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579857807348" />
+    <state width="1877" height="120" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580446333650" />
     <state width="969" height="271" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1578930521502" />
-    <state width="1029" height="277" key="GridCell.Tab.0.right" timestamp="1579857807348">
+    <state width="1877" height="120" key="GridCell.Tab.0.right" timestamp="1580446333651">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1029" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579857807348" />
+    <state width="1877" height="120" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580446333651" />
     <state width="969" height="271" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1578930521505" />
     <state x="540" y="165" key="SettingsEditor" timestamp="1579772058405">
       <screen x="0" y="0" width="1920" height="1040" />

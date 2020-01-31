@@ -25,7 +25,6 @@ public class test extends msg {
             secondsString = "0" + secondsString;
         }
 
-
         return hoursString + " " + minsString + " " + secondsString;
     }
 

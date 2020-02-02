@@ -1,6 +1,6 @@
 package oop.challenge;
 
-public class Main {
+public class AccountTester {
     public static void main(String[] args) {
 
         Account timsAccount = new Account();

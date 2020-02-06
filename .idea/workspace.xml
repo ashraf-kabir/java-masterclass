@@ -2,91 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1929e402-c9cf-43f0-950e-c93637870fce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/eight/Arrays/basic/test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/eight/Arrays/basic/test02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/challenge/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/challenge/AccountTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/challenge/VIPCustomer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/composition/Case.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/composition/Dimensions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/composition/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/composition/Monitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/composition/Motherboard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/composition/PC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/composition/Resolution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/composition/challange/Bed.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/composition/challange/Bedroom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/composition/challange/Ceiling.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/composition/challange/Lamp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/composition/challange/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/composition/challange/Wall.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/encapsulation/EnhancedPlayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/encapsulation/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/encapsulation/Player.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/encapsulation/challenge/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/encapsulation/challenge/Printer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/inheritance/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/inheritance/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/inheritance/Fish.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/inheritance/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/inheritance/challenge/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/inheritance/challenge/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/inheritance/challenge/Outlander.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/inheritance/challenge/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/masterchallenge/DeluxeBurger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/masterchallenge/Hamburger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/masterchallenge/HealthyBurger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/masterchallenge/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/polymorphism/Forgettable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/polymorphism/IndependenceDay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/polymorphism/Jaws.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/polymorphism/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/polymorphism/MazeRunner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/polymorphism/Movie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/polymorphism/StarWars.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/polymorphism/challenge/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/polymorphism/challenge/Ford.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/polymorphism/challenge/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/oop/polymorphism/challenge/Mitsubishi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/challenge/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/challenge/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/challenge/AccountTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/challenge/AccountTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/challenge/VIPCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/challenge/VIPCustomer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/composition/Case.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/composition/Case.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/composition/Dimensions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/composition/Dimensions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/composition/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/composition/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/composition/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/composition/Monitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/composition/Motherboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/composition/Motherboard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/composition/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/composition/PC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/composition/Resolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/composition/Resolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/composition/challange/Bed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/composition/challange/Bed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/composition/challange/Bedroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/composition/challange/Bedroom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/composition/challange/Ceiling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/composition/challange/Ceiling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/composition/challange/Lamp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/composition/challange/Lamp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/composition/challange/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/composition/challange/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/composition/challange/Wall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/composition/challange/Wall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/EnhancedPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/encapsulation/EnhancedPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/encapsulation/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/encapsulation/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/challenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/encapsulation/challenge/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/encapsulation/challenge/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/encapsulation/challenge/Printer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/inheritance/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/inheritance/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/inheritance/Fish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/inheritance/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/challenge/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/inheritance/challenge/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/challenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/inheritance/challenge/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/challenge/Outlander.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/inheritance/challenge/Outlander.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/challenge/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/inheritance/challenge/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/masterchallenge/DeluxeBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/masterchallenge/DeluxeBurger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/masterchallenge/Hamburger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/masterchallenge/Hamburger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/masterchallenge/HealthyBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/masterchallenge/HealthyBurger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/masterchallenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/masterchallenge/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/polymorphism/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/polymorphism/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/polymorphism/challenge/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/polymorphism/challenge/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/polymorphism/challenge/Ford.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/polymorphism/challenge/Ford.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/polymorphism/challenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/polymorphism/challenge/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/polymorphism/challenge/Mitsubishi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sixnseven/oop/polymorphism/challenge/Mitsubishi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -254,7 +170,9 @@
       <workItem from="1580549192452" duration="276000" />
       <workItem from="1580640245145" duration="2030000" />
       <workItem from="1580643030111" duration="747000" />
-      <workItem from="1580656019355" duration="3597000" />
+      <workItem from="1580656019355" duration="3691000" />
+      <workItem from="1581012443185" duration="420000" />
+      <workItem from="1581012913949" duration="54000" />
     </task>
     <servers />
   </component>
@@ -271,30 +189,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="819" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580641223574" />
-    <state width="914" height="168" key="GridCell.Tab.0.bottom" timestamp="1580662228360">
+    <state width="1029" height="168" key="GridCell.Tab.0.bottom" timestamp="1580662337351">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="168" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580662228360" />
+    <state width="1029" height="168" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580662337351" />
     <state width="969" height="271" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1578930521506" />
-    <state width="914" height="168" key="GridCell.Tab.0.center" timestamp="1580662228360">
+    <state width="1029" height="168" key="GridCell.Tab.0.center" timestamp="1580662337351">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="168" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580662228360" />
+    <state width="1029" height="168" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580662337351" />
     <state width="969" height="271" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1578930521504" />
-    <state width="914" height="168" key="GridCell.Tab.0.left" timestamp="1580662228359">
+    <state width="1029" height="168" key="GridCell.Tab.0.left" timestamp="1580662337351">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="168" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580662228359" />
+    <state width="1029" height="168" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580662337351" />
     <state width="969" height="271" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1578930521502" />
-    <state width="914" height="168" key="GridCell.Tab.0.right" timestamp="1580662228360">
+    <state width="1029" height="168" key="GridCell.Tab.0.right" timestamp="1580662337351">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="168" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580662228360" />
+    <state width="1029" height="168" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580662337351" />
     <state width="969" height="271" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1578930521505" />
-    <state x="540" y="165" key="SettingsEditor" timestamp="1580641349627">
+    <state x="157" y="197" key="SettingsEditor" timestamp="1581012979173">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="540" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580641349627" />
+    <state x="157" y="197" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581012979173" />
     <state x="898" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1577861938335" />
     <state x="661" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1579496978515">
       <screen x="0" y="0" width="1920" height="1040" />

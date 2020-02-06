@@ -33,6 +33,9 @@ public class challenge1 {
         for (int i = 0; i < array.length; i++) {
             sortedArray[i] = array[i];
         }
+
+//        System.arraycopy(array, 0, sortedArray, 0, array.length);
+
         boolean flag = true;
         int temp;
         while (flag) {

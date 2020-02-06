@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1929e402-c9cf-43f0-950e-c93637870fce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/eight/Arrays/basic/challenge1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +44,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Application.test02">
+  <component name="RunManager" selected="Application.challenge1">
     <configuration name="AccountTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seven.oop.challenge.AccountTester" />
       <module name="java-masterclass" />
@@ -57,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="expCodebloksMethods.codingExercise.speedConverter.Main" />
+    <configuration name="challenge1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eight.Arrays.basic.challenge1" />
       <module name="java-masterclass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="expCodebloksMethods.codingExercise.speedConverter.*" />
+          <option name="PATTERN" value="eight.Arrays.basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.challenge1" />
         <item itemvalue="Application.test02" />
         <item itemvalue="Application.test01" />
         <item itemvalue="Application.sample" />
         <item itemvalue="Application.AccountTester" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +173,7 @@
       <workItem from="1580643030111" duration="747000" />
       <workItem from="1580656019355" duration="3691000" />
       <workItem from="1581012443185" duration="420000" />
-      <workItem from="1581012913949" duration="54000" />
+      <workItem from="1581012913949" duration="1582000" />
     </task>
     <servers />
   </component>

@@ -3,7 +3,7 @@ package eight.Arrays.basic;
 import java.util.Scanner;
 
 public class test02 {
-    public static Scanner scanner = new Scanner(System.in);
+    public static Scanner sc = new Scanner(System.in);
 
     public static void main(String[] args) {
         int[] myIntegers = getIntegers(5);
@@ -18,7 +18,7 @@ public class test02 {
         int[] values = new int[number];
 
         for (int i = 0; i < values.length; i++) {
-            values[i] = scanner.nextInt();
+            values[i] = sc.nextInt();
         }
         return values;
     }

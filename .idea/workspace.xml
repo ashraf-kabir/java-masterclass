@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1929e402-c9cf-43f0-950e-c93637870fce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/eight/Arrays/basic/refvsVal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eight/Arrays/basic/minElementChallenge/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-masterclass/eight/Arrays/basic/test02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-masterclass/eight/Arrays/basic/test02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/eight/Arrays/basic/test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eight/Arrays/basic/test02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,13 +65,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
   </component>
-  <component name="RunManager" selected="Application.refvsVal">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sixnseven.oop.polymorphism.challenge.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eight.Arrays.basic.minElementChallenge.Main" />
       <module name="java-masterclass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sixnseven.oop.polymorphism.challenge.*" />
+          <option name="PATTERN" value="eight.Arrays.basic.minElementChallenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.refvsVal" />
         <item itemvalue="Application.challenge1" />
         <item itemvalue="Application.test02" />
         <item itemvalue="Application.test01" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -197,6 +195,9 @@
       <workItem from="1587717723672" duration="1026000" />
       <workItem from="1587719266738" duration="67000" />
       <workItem from="1587762790710" duration="3459000" />
+      <workItem from="1587789621797" duration="36000" />
+      <workItem from="1587907174054" duration="1190000" />
+      <workItem from="1587908469506" duration="943000" />
     </task>
     <servers />
   </component>
@@ -213,6 +214,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1240" y="209" width="374" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1579857647107">
@@ -224,26 +226,26 @@
     </state>
     <state x="819" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580641223574" />
     <state x="860" y="294" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1587719308208" />
-    <state width="1119" height="243" key="GridCell.Tab.0.bottom" timestamp="1587767975272">
+    <state width="1126" height="213" key="GridCell.Tab.0.bottom" timestamp="1587909413726">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state width="1029" height="247" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581014664465" />
-    <state width="1119" height="243" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1587767975272" />
-    <state width="1119" height="243" key="GridCell.Tab.0.center" timestamp="1587767975272">
+    <state width="1126" height="213" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1587909413726" />
+    <state width="1126" height="213" key="GridCell.Tab.0.center" timestamp="1587909413725">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state width="1029" height="247" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581014664465" />
-    <state width="1119" height="243" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1587767975272" />
-    <state width="1119" height="243" key="GridCell.Tab.0.left" timestamp="1587767975270">
+    <state width="1126" height="213" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1587909413725" />
+    <state width="1126" height="213" key="GridCell.Tab.0.left" timestamp="1587909413724">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state width="1029" height="247" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581014664465" />
-    <state width="1119" height="243" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1587767975270" />
-    <state width="1119" height="243" key="GridCell.Tab.0.right" timestamp="1587767975272">
+    <state width="1126" height="213" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1587909413724" />
+    <state width="1126" height="213" key="GridCell.Tab.0.right" timestamp="1587909413725">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state width="1029" height="247" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581014664465" />
-    <state width="1119" height="243" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1587767975272" />
+    <state width="1126" height="213" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1587909413725" />
     <state x="223" y="226" width="1022" height="737" key="SettingsEditor" timestamp="1587763596075">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>

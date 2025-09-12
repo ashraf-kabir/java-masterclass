@@ -1,7 +1,2 @@
-/nbproject/
-/.idea/*
-*.tmlanguage.cache
-*.tmPreferences.cache
-*.stTheme.cache
-*.sublime-workspace
-*.sublime-project
+.DS_Store
+.idea
